@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-cucumber-assert/issues"
   },
   "dependencies": {
-    "cucumber": "6.0.5",
+    "cucumber": "6.0.7",
     "puppeteer": "9.1.1"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using Commonjs, Cucumber and Assert.",
